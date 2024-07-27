@@ -9,7 +9,15 @@
 </div>
 
 
-## Features 🏞
+# Setup Guide 🛠
+- Download and extract the source code
+- Places your solana private keys into `data/pks.txt`
+- Open a cmd window and type `pip install -r requirements.txt`
+- Run the bot with `py multiwallet.py`
+
+
+
+# Features 🏞
 - Create multiple customized wallet sets to perform all kinds of features in the same code, without running different scripts 😵‍💫
 - Implementing custom Address Lookup Table (LUT) & complex Jito bundling technique to ensure blazingly fast transactions & efficient savings on fees 💸
 - Offers the most intuitive and user-friendly UI/UX in the market, extremely user-friendly!
@@ -45,9 +53,3 @@
 - 💰 Bundle Sell / Normal Rotation Sell at 100%, 75%, 50%, 25%
 - 😇 Additional feature of transferring all tokens from Sub Wallets to Master Wallet for a huge 💩🚽
 - 🪢 Seamless integration with <b>*Raydium*</b> buy/sell after token is graduated 🎓
-
-## Setup Guide 🛠
-- Download and extract the source code
-- Places your solana private keys into `data/pks.txt`
-- Open a cmd window and type `pip install -r requirements.txt`
-- Run the bot with `py multiwallet.py`
